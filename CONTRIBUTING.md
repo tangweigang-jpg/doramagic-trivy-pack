@@ -1,6 +1,6 @@
 # Contributing
 
-This repository is an independent Doramagic AI context resource pack for the upstream project named in `SOURCE_MAP.md`.
+This repository is an independent Doramagic AI context resource pack for aquasecurity/trivy.
 
 Use issues for:
 
@@ -8,7 +8,7 @@ Use issues for:
 - Pitfall reports: setup, permission, runtime, or recovery failures that should be added to `03_PITFALL_LOG.md`.
 - Usage questions: how to load this pack into Claude Code, Codex, Cursor, Aider, or another AI coding host.
 
-Do not use this repository as the upstream project's support tracker. If the bug is in the upstream project itself, report it to the upstream repository first and link the upstream issue here only when it changes this pack.
+Do not use this repository as the upstream project's support tracker. If the bug is in aquasecurity/trivy itself, report it to https://github.com/aquasecurity/trivy/issues first and link the upstream issue here only when it changes this pack.
 
 Before opening an issue:
 
